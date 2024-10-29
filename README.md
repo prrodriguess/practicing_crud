@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # practicing_crud
 After 2 years working as front_end developer I've got into the path to practice and remind my bootcamp tasks with ruby
 
@@ -14,8 +11,7 @@ Create
 Show
 
 This repository is about CRUD, with it you can create, show and see all list created into the database
-=======
->>>>>>> teste
+
 # README
 
 This README would normally document whatever steps are necessary to get the
