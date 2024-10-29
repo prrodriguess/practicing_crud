@@ -6,9 +6,9 @@ What you will find here ?
 Database setup PostgreSQL
 Crud with 
 
-Index
-Create
-Show
+Index |
+Create |
+Show |
 
 This repository is about CRUD, with it you can create, show and see all list created into the database
 
@@ -34,9 +34,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
-<<<<<<< HEAD
-=======
->>>>>>> 5a028dd (adicionando projeto no github)
->>>>>>> teste
