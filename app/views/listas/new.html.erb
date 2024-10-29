@@ -1,0 +1,14 @@
+<h1>Criar uma nova lista</h1>
+<%= form_with scope: :lista, local: true, url: listas_path do |form| %>
+  <p>
+    <%= form.label :nome %>
+    <%= form.text_field :nome %>
+  </p>
+  <p>
+    <%= form.label(:descriçao, "Descrição") %>
+    <%= form.text_field :descricao %>
+  </p>
+  <p>
+    <%= form.submit("Salvar") %>
+  </p>
+<% end %>
